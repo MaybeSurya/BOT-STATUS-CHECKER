@@ -31,7 +31,6 @@
        "CHANNEL_OR_GROUP_ID": {
             "description": "Your channel's or group's Telegram id (Example: ---1001725447152)",
             "required": true
-            "value": "-1001725447152"
         },
        "MESSAGE_ID": {
             "description": "Telegram id of message from your channel or group (Example: 10) Need Help Then Contact @SuryaModOwner",
@@ -39,12 +38,10 @@
         },
         "BOT_ADMIN_IDS": {
             "description": "Bot admin(s) id(s) (Example: 5043850742)"
-            "value": "5043850742"
         },
         "TIME_ZONE": {
             "description": "Your time zone (Example: Asia/Kolkata)",
             "required": true
-            "value": "Asia/Kolkata"
         }
     },
     "formation": {
