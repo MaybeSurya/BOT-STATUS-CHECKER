@@ -31,9 +31,10 @@
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via
-[Replit](https://replit.com/@SuryaModsYT/SURYA-MUSIC-SESSION-GENRATOR)
-[Telegram-Bot](https://t.me/SuryaxSessionBot)
+## Generate a Pyrogram String Session via
+## [Replit](https://replit.com/@SuryaModsYT/SURYA-MUSIC-SESSION-GENRATOR)
+
+## [Telegram-Bot](https://t.me/SuryaxSessionBot)
 
 ## 🏷 Support
 
